@@ -15,7 +15,7 @@
 #
 # (When overriding, include vagrant.local if you need it)
 hosts:
-    - vagrant.local
+    - vagrant-technotan.local
 
 # IP address to use on the private network
 #

@@ -10,3 +10,15 @@
 [submodule "puppet/modules/wp"]
 	path = puppet/modules/wp
 	url = https://github.com/rmccue/puppet-wp.git
+[submodule "content/plugins/lasercommerce"]
+	path = content/plugins/lasercommerce
+	url = git@github.com:derwentx/laserCommerce.git
+[submodule "content/plugins/tansync"]
+	path = content/plugins/tansync
+	url = git@github.com:derwentx/TanSync.git
+[submodule "content/plugins/woocommerce"]
+	path = content/plugins/woocommerce
+	url = https://github.com/woothemes/woocommerce.git
+[submodule "content/themes/tanvas"]
+	path = content/themes/tanvas
+	url = git@github.com:derwentx/Tanvas.git

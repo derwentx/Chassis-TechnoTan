@@ -5,7 +5,16 @@
 /local-config-extensions.php
 /sql-dump-*.sql
 /db-sync
-/content
+/content/debug.log
+/content/uploads
+/content/languages
+/content/themes/canvas
+/content/plugins/jetpack
+/content/plugins/woocommerce-dynamic-pricing
+/content/plugins/woocommerce-memberships
+/content/plugins/woocommerce-composite-products
+/content/plugins/woocommerce-product-archive-customiser
+/content/plugins/woocommerce-product-details-customiser
 .DS_Store
 .idea
 config.local.yaml

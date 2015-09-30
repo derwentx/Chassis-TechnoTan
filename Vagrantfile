@@ -130,5 +130,7 @@ Vagrant.configure("2") do |config|
 		end if CONF["synced_folders"]
 	end
 
+	config.vm.provision "shell", path: "provisioner.sh"
+
 	# Success?
 end
